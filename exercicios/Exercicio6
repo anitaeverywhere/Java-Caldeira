@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LerIdade {
+public class LerIdadeParaVotar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println ("Digite Sua Idade")

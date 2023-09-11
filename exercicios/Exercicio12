@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class converterDolarParaEuroEReal {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Digite um valor em dólar");
+        System.out.println("Selecione uma opção:");
+        System.out.println("1. Euro");
+        System.out.println("2. Real");
+        int valorEmDolar = Scanner(System.in);
+        int conversaoReal = valorEmDolar * 4.93
+        int conversaoEuro = valorEmDolar * 0,93
+        if (opcao 1) {
+            System.out.println("Esse valor em dólar corresponde à" + conversaoEuro + "Euros")
+        }
+        if (opcao 2) {
+            System.out.println("Esse valor em dólar corresponde à" + conversaoReal + "Reais")
+        }
+
+        scanner.close();
+    }
+}

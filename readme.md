@@ -12,6 +12,6 @@ Nesse projeto, pudemos revisar os conceitos básicos da programação utilizando
 - `Introdução ao MAC`:
 - `Funções`:
 
-# :U+1F60E: Obrigado Por Acompanhar o meu Projeto :U+1F60E:
+# :sunglasses: Obrigado Por Acompanhar o meu Projeto :sunglasses:
 
 <img src="java.png">

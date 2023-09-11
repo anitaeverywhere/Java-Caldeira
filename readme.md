@@ -1,4 +1,4 @@
-#EXERCICIOS AULA 1
+# EXERCICIOS AULA 1
 > :construction: Projeto em construção :construction:
 Olá! Esse é o primeiro exercício que eu fiz, estudando no programa Geração Caldeira 2023.
 Nesse projeto, pudemos revisar os conceitos básicos da programação utilizando o java.

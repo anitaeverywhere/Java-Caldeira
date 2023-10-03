@@ -1,4 +1,6 @@
-public abstract class Circulo extends FigurasGeometricas{
+package Exercicio02;
+
+public abstract class Circulo extends FigurasGeometricas {
     double raio;
     @Override
     public void area() {

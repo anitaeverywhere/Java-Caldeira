@@ -1,3 +1,7 @@
+package Exercicio02;
+
+import Exercicio02.FigurasGeometricas;
+
 public abstract class Retangulo extends FigurasGeometricas {
     double base;
     double altura;

@@ -1,3 +1,7 @@
+package Exercicio03;
+
+import Exercicio03.Conta;
+
 public class ContaCorrente extends Conta implements Tributavel {
     double saldo;
 

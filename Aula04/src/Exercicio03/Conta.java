@@ -1,3 +1,5 @@
+package Exercicio03;
+
 public class Conta {
     private String nome;
     private String cpf;

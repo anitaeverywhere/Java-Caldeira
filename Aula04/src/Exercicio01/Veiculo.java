@@ -1,3 +1,5 @@
+package Exercicio01;
+
 public abstract class Veiculo {
     String Marca;
     String Modelo;

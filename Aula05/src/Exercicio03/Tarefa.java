@@ -1,3 +1,5 @@
+package Exercicio03;
+
 public class Tarefa {
     private String titulo;
     private String data;
